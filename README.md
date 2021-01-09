@@ -25,3 +25,7 @@
 print("Hello   NANDINI")
 
 ```
+s.no|name|mobile no|email id
+----|----|---------|--------
+1|nandini|785668|abc@gmail.com
+2|raji|78978597|yruihgu@gmail.com
